@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import reactPaginate from "react-paginate";
 import ReactPaginate from "react-paginate";
 
 const UserList = () => {
